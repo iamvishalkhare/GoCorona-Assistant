@@ -1,4 +1,4 @@
-# GoCorona-Assistant
+# GoCorona WhatsApp Assistant
 
 ## How to use?
 
