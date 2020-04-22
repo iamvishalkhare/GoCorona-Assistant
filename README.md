@@ -20,3 +20,6 @@ You can also get information on number of hospitals and beds available in India 
 ## Getting started
 
 Repository contains a DialogFlow .zip model. Just import it in your DialogFlow agent and use `index.js` inside `/src` to code fulfilments. 
+
+## Screenshots
+<img src="screenshots/1.png">
